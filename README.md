@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ayaan, a 12-year-old with an insatiable curiosity for all things related to swimming, coding, and beyond. From the excitement of the swimming pool to the thrill of coding challenges, my interests span a wide spectrum.
+I'm Ayaan, a human with an insatiable curiosity for all things related to swimming, coding, and beyond. From the excitement of the swimming pool to the thrill of coding challenges, my interests span a wide spectrum.
 
 **🏊 Swimming Enthusiast**: Ever since I had my first dip in the pool, I've been captivated by the world of swimming. Whether I'm racing with my friends or practicing new strokes, swimming is where my heart truly belongs. Dreaming of participating in professional swimming competitions keeps me motivated!
 

@@ -4,4 +4,4 @@ I'm Ayaan, a human with an insatiable curiosity for all things related to swimmi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaangrover&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaangrover&layout=compact&theme=radical)

@@ -6,4 +6,4 @@ I'm Ayaan, a human with an insatiable curiosity for all things related to swimmi
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaangrover&layout=compact&bg_color=30,e96443,904e95)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaangrover&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff)

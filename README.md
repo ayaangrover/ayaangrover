@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+``` swift
 import SwiftUI
 import archon8
 

@@ -25,7 +25,7 @@ struct AyaanView: View {
 struct AyaanView_Previews: PreviewProvider {
     static var previews: some View {
         AyaanView()
-            .previewLayout(.sizeThatFits)
+            .previewLayout()
             .padding()
             .previewDisplayName("Ayaan")
     }

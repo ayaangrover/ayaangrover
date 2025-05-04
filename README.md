@@ -1,5 +1,5 @@
+## Hi there - I'm
 ![LinkedIn cover](https://github.com/user-attachments/assets/edb705b5-2e8c-4e1e-afc4-58e177f2e8da)
-## Hi there 👋
 
 ``` swift
 import SwiftUI

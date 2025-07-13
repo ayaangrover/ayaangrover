@@ -38,7 +38,4 @@ struct AyaanView_Previews: PreviewProvider {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaangrover&layout=donut&bg_color=30,0D1117,0D1117&text_color=ffffff&title_color=ffffff">
 </p>
 
-<p align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ayaangrover&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=ayaangrover&theme=dark"/>
-</p>
+![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=USERNAME&count=5&theme=light)

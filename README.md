@@ -39,3 +39,5 @@ struct AyaanView_Previews: PreviewProvider {
 </p>
 
 ![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=ayaangrover&count=5&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=ayaangrover)

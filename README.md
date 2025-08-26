@@ -6,7 +6,7 @@ public class Ayaan {
     public static void main(String[] args) {
         String[] hobbies = {"Coding", "Swimming", "Reading"};
         String[] location = {"37.8199° N, 122.4786° W"};
-        String[] languages = {"Swift", "Next.js", "React.js"};
+        String[] languages = {"Swift", "TypeScript", "Javascript", "Java", "HTML", "CSS", "GDScript"};
         String[] tools = {"FlipperZero", "XCode", "VSCode"};
 
         System.out.println("Hobbies: " + String.join(", ", hobbies));

@@ -23,4 +23,6 @@ public class Ayaan {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaangrover&layout=donut&bg_color=30,0D1117,0D1117&text_color=ffffff&title_color=ffffff">
 </p>
 
+<div view=none>
 ![](https://komarev.com/ghpvc/?username=ayaangrover)
+</div>

@@ -19,4 +19,6 @@ public class Ayaan {
 
 ```
 
-![](https://komarev.com/ghpvc/?username=ayaangrover)
+<div style="visibility:hidden">
+  <img src="https://komarev.com/ghpvc/?username=ayaangrover" />
+</div>

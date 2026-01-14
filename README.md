@@ -20,5 +20,5 @@ public class Ayaan {
 ```
 
 <div style="visibility:hidden">
-  <img src="https://komarev.com/ghpvc/?username=ayaangrover" width="0" height="0" />
+  <img src="https://komarev.com/ghpvc/?username=ayaangrover" width="1" height="1" />
 </div>

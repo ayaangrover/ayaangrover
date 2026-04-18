@@ -1,4 +1,4 @@
-<img width="3607" height="1066" alt="frame" src="https://github.com/user-attachments/assets/164e17d6-7d91-4246-9e37-51bf05efd21e" />
+<img alt="frame" src="https://github.com/user-attachments/assets/164e17d6-7d91-4246-9e37-51bf05efd21e" />
 
 ``` java
 
@@ -22,3 +22,5 @@ public class Ayaan {
 <div style="visibility:hidden">
   <img src="https://komarev.com/ghpvc/?username=ayaangrover" width="1" height="1" />
 </div>
+
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d69bc37f-d649-4ae8-8fad-123700a4fc61"></script>

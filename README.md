@@ -23,4 +23,3 @@ public class Ayaan {
   <img src="https://komarev.com/ghpvc/?username=ayaangrover" width="1" height="1" />
 </div>
 
-<script defer src="https://cloud.umami.is/script.js" data-website-id="d69bc37f-d649-4ae8-8fad-123700a4fc61"></script>
